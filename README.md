@@ -1,3 +1,3 @@
-# Kumarhello-world
+# Kumarhello-Universe
 Replicating exercise on repository creation
 Now here to show changes, this line is introduced   
